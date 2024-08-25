@@ -1,0 +1,42 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    /*border-radius: 10px;*/
+    padding: 5px;
+    padding-top: 7px;
+    text-align: center;
+}
+h2{
+    color: rgb(182, 156, 27);
+}
+div[exercice2] {
+    background-color: rgb(219, 171, 99);
+    color: black;
+}
+div[exercice3] {
+    background-color: rgb(96, 163, 153);
+    color: black;
+}
+h3{
+    color:darkred
+}
+
+input[type="text"] {
+    color: black;
+}
+
+label[for="fname"] {
+    color: green;
+}
+#email{color: blueviolet;}
+
+*{text-align: center;
+   
+}
+table{
+    margin: 0 auto;
+}
+th{background-color: burlywood;
+color: white;}
+span{border: 20px;
+background-color: brown;}
